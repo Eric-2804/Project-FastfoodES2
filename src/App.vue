@@ -1,4 +1,6 @@
 <template>
-  <q-btn label="Hola Quasar" color="primary" />
+  <router-view />
 </template>
 
+<script setup>
+</script>
