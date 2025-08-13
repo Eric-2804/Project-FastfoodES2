@@ -4,12 +4,12 @@
     <header>
       <img src="../assets/logo.png" alt="logo" />
       <h2>FAST FOOD ES </h2>
-      <button>HOME</button>
-      <button>BURGUERS</button>
-      <button>HOTDOGS</button>
-      <button>DRINKS</button>
-      <button>EXTRAS</button>
-      <button>EXIT</button>
+      <router-link to="/"><button>HOME</button></router-link>
+        <router-link to="/hamburguesas"><button>BURGUERS</button></router-link>
+        <router-link to="/hotdogs"><button>HOTDOGS</button></router-link>
+        <router-link to="/bebidas"><button>DRINKS</button></router-link>
+        <router-link to="/extras"><button>EXTRAS</button></router-link>
+
     </header>
   </div>
 
