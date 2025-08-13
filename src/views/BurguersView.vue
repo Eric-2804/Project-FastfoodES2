@@ -185,13 +185,22 @@ flex-grow: 1;
     text-align: center;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
     padding: 20px;
-    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
     display: flex;
     flex-direction: row; 
   align-items: center;
   gap: 20px; 
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeUp 0.5s ease forwards;
 }
   
+@keyframes fadeUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
 
 .card img {
   width: 200px;

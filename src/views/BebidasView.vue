@@ -18,7 +18,7 @@
   <img src="../assets/drinks/drinks1.jpeg" alt="Todoterreno Clásica En Combo">
   <div class="card-conte">
   <h5>Coca-cola fría</h5>
-  <p>✰ refresco clásico servido con hielo y rodajas de limón.</p>
+  <p>✰ Refresco clásico servido con hielo y rodajas de limón.</p>
   <span class="precio">$5.000</span>
   <button class="btn-comprar">Comprar</button>
 </div>
@@ -27,8 +27,8 @@
   <div class="card">
     <img src="../assets/drinks/drinks2.jpeg" alt="jiren">
     <div class="card-conte">
-  <h5>limonada natural </h5>
-  <p>✰ jugo fresco de limón, endulzado al gusto y servido bien frío.</p>
+  <h5>Limonada natural </h5>
+  <p>✰ Jugo fresco de limón, endulzado al gusto y servido bien frío.</p>
   <span class="precio">$6.500</span>
   <button class="btn-comprar">Comprar</button>
 </div>
@@ -37,8 +37,8 @@
   <div class="card">
   <img src="../assets/drinks/drinks3.jpeg" alt="Hit">
   <div class="card-conte">
-  <h5>jugo de maracuyá </h5>
-  <p>✰ jugo 100% natural, ácido y refrescante, ideal para acompañar tus comidas..</p>
+  <h5>Jugo de maracuyá </h5>
+  <p>✰ Jugo 100% natural, ácido y refrescante, ideal para acompañar tus comidas..</p>
   <span class="precio">$7.000</span>
   <button class="btn-comprar">Comprar</button>
 </div>
@@ -47,8 +47,8 @@
 <div class="card"> 
   <img src="../assets/drinks/drinks4.jpeg" alt="Frezzer">
   <div class="card-conte">
-  <h5>té helado de durazno </h5>
-  <p>✰ té suave con aroma a durazno, endulzado y servido con hielo.</p>
+  <h5>Té helado de durazno </h5>
+  <p>✰ Té suave con aroma a durazno, endulzado y servido con hielo.</p>
   <span class="precio">$6.000</span>
   <button class="btn-comprar">Comprar</button>
 </div>
@@ -57,8 +57,8 @@
 <div class="card">
   <img src="../assets/drinks/drinks5.jpeg" alt="Toppo">
   <div class="card-conte">
-  <h5>malteada de vainilla </h5>
-  <p>✰ cremosa mezcla de helado de vainilla y leche, coronada con crema batida.</p>
+  <h5>Malteada de vainilla </h5>
+  <p>✰ Cremosa mezcla de helado de vainilla y leche, coronada con crema batida.</p>
   <span class="precio">$9.000</span>
   <button class="btn-comprar">Comprar</button>
 </div>
@@ -67,8 +67,8 @@
 <div class="card">
   <img src="../assets/drinks/drinks6.jpeg" alt="Aniraza">
   <div class="card-conte">
-  <h5>malteada de chocolate </h5>
-  <p>✰ deliciosa malteada de chocolate con helado, leche y chispas de chocolate.</p>
+  <h5>Malteada de chocolate </h5>
+  <p>✰ Deliciosa malteada de chocolate con helado, leche y chispas de chocolate.</p>
   <span class="precio">$9.500</span>
   <button class="btn-comprar">Comprar</button>
 </div>
@@ -77,8 +77,8 @@
 <div class="card">
   <img src="../assets/drinks/drinks7.jpeg" alt="Kefla">
   <div class="card-conte">
-  <h5>agua mineral  </h5>
-  <p>✰ agua con gas bien fría, perfecta para refrescarse.</p>
+  <h5>Agua mineral  </h5>
+  <p>✰ Agua con gas bien fría, perfecta para refrescarse.</p>
   <span class="precio">$4.000</span>
   <button class="btn-comprar">Comprar</button>
 </div>
@@ -87,8 +87,8 @@
 <div class="card">
 <img src="../assets/drinks/drinsk8.jpeg" alt="Androide 17">
 <div class="card-conte">
-  <h5>smoothie de fresa</h5>
-  <p>✰ batido natural de fresas frescas y yogur cremoso.</p>
+  <h5>Smoothie de fresa</h5>
+  <p>✰ Batido natural de fresas frescas y yogur cremoso.</p>
   <span class="precio">$8.500</span>
   <button class="btn-comprar">Comprar</button>
 </div>
@@ -98,7 +98,7 @@
   <img src="../assets/drinks/drinks9.jpeg" alt="Gohan">
   <div class="card-conte">
   <h5>Jugo Hit </h5>
-  <p>✰ jugo natural de mango, dulce y refrescante, ideal para cualquier ocasión.</p>
+  <p>✰ Jugo natural de mango, dulce y refrescante, ideal para cualquier ocasión.</p>
   <span class="precio">$7.500</span>
   <button class="btn-comprar">Comprar</button>
 </div>

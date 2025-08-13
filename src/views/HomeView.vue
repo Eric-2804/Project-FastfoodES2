@@ -4,7 +4,7 @@
       <header>
         <img src="../assets/logo.png" alt="logo" />
         <h2>FAST FOOD ES </h2>
-        <button>HOME</button>
+        <button> HOME</button>
         <button>BURGUERS</button>
         <button>HOTDOGS</button>
         <button>DRINKS</button>
