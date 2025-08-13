@@ -1,4 +1,5 @@
 <template>
+  
     <div class="head">
       <header>
         <img src="../assets/logo.png" alt="logo" />
@@ -157,10 +158,11 @@ footer {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10px 20px;
+padding-top: 10px;
+padding-left: 2px;
+padding-right: 10px;
  background-color: #FAE9BF ;
   box-shadow: 0 0 10px rgba(0,0,0,0.7);
-  margin-top: 3.5%;
 }
 
 
