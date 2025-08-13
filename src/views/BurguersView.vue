@@ -20,7 +20,7 @@
   <h5>Todoterreno Clásica</h5>
   <p>✰ Jugosa carne de res, queso cheddar, lechuga crujiente y pan con ajonjolí recién horneado.</p>
   <span class="precio">$18.900</span>
-  <button class="btn-comprar">comprar</button>
+  <button class="btn-comprar">Comprar</button>
 </div>
 </div>
 
